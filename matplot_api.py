@@ -8,3 +8,6 @@ import seaborn as sns
 class Graficador:
     def __init__(self):
         self.figura = ppl
+
+    def graf_linea(self,X,Y):
+        return false
